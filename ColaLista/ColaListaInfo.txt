@@ -1,0 +1,9 @@
+
+
+********** ColaLista **********
+
+=> La representación del TAD Cola con listas maneja dos clases; la clase Nodo y la clase, con las operaciones de las colas, ColaLista. 
+=> El Nodo representa al elemento y al enlace con el siguiente nodo; al crear un Nodo, se asigna el elemento y el enlace se pone a null. 
+=> Con el objetivo de generalizar, el elemento se declara de tipo Object.
+=> La clase ColaLista define las variables (atributos) de acceso: frente y fin, y las operaciones básicas del TAD Cola. 
+=> El constructor de ColaLista inicializa frente y fin a null, es decir, a la condición cola vacía
